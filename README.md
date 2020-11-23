@@ -1,1 +1,1 @@
-![hitcounter](https://valar-hitcounter.valar.dev/count?name=lnsp&style=minimal)
+![hitcounter](https://valar-hitcounter.invoke.valar.dev/count?name=lnsp&style=minimal)
